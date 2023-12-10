@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Hello world"
+categories: 
+---
+
 # Hello everyone!
 ## Sub title
 ### Another subtitle

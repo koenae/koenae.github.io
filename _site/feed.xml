@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-10T17:30:11+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Learning by writing things down</title><entry><title type="html">Hello world</title><link href="http://localhost:4000/2023/12/03/Hello-World.html" rel="alternate" type="text/html" title="Hello world" /><published>2023-12-03T00:00:00+01:00</published><updated>2023-12-03T00:00:00+01:00</updated><id>http://localhost:4000/2023/12/03/Hello%20World</id><content type="html" xml:base="http://localhost:4000/2023/12/03/Hello-World.html"><![CDATA[<h1 id="hello-everyone">Hello everyone!</h1>
+<h2 id="sub-title">Sub title</h2>
+<h3 id="another-subtitle">Another subtitle</h3>
+
+<div class="language-typescript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span><span class="p">(</span><span class="kr">string</span> <span class="nx">message</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">message</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[Hello everyone! Sub title Another subtitle]]></summary></entry></feed>
